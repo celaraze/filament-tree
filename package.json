@@ -10,7 +10,7 @@
         "build": "npm-run-all build:*"
     },
     "devDependencies": {
-        "@awcodes/filament-plugin-purge": "^1.0.2",
+        "@awcodes/filament-plugin-purge": "^1.1.2",
         "autoprefixer": "^10.4.7",
         "esbuild": "^0.8.57",
         "imports-loader": "^4.0.1",
